@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me:
--     * Instagram https://www.instagram.com/m3az.a7med?igsh=OTllOGgwNnIycDZy
--     * Facebook https://www.facebook.com/share/NUR27GF7aQuNTGYi/?mibextid=qi2Omg
--     * LinkedIn 
+-     * Instagram https://2u.pw/VZPG4cHA
+-     * Facebook https://2u.pw/g7b3iLN0
+-     * LinkedIn https://2u.pw/SDo332B4
 
 
 <!---
