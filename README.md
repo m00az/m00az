@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m00az
+- 👋 Hi, I’m Moaz
 - 👀 I’m interested in:
 -     * Machine learning
 -     * App development
