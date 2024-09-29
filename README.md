@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **💻 Developing an app for programming fundemntals**
 - 🌱 I'm currently learning: **📚 Exploring database management and laraver**
-- 💬 Ask me about: **💡 C++,C#,Problem Solving,OOP,Flutter,Dart,APIs,SQL,My SQL,Python,HTMl,CSS**
+- 💬 Ask me about: **💡 C++ , C# , Problem Solving , OOP , Flutter , Dart , APIs , My SQL , Python , Front End**
 - 📂 Portfolio: **<a href="https://github.com/m00az?tab=repositories 👀" target="_blank">https://github.com/m00az?tab=repositories 👀</a>**
 
  **<h3 align="left">Skills</h3>**
